@@ -1,0 +1,1 @@
+<the same single fullstack blog platform code as above>
